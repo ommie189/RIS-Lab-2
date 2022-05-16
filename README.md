@@ -1,4 +1,9 @@
 # RIS-Lab-2
-Here are my some models I created for respective linear time invariant systems in MATLAB/Simulink.
+Here are some models I created for respective linear control systems in MATLAB/Simulink.
 
-The tasks completed in each lab were according to the manual uploaded.
+The topics for the respective labs are as follows.
+Lab 1 - Simulink
+Lab 2 - Brushed DC Motor Model
+Lab 3 - A brushed Motor Model
+Lab 4 - The PID controller for Speed Regulation
+Lab 5 - Discretization of the Controller
